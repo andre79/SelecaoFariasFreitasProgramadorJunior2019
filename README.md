@@ -3,11 +3,11 @@
 
 Processo de seleção de candidatos para a vaga de Programador Júnior
  
-1 vaga para Programador Júnior;
-Salário: R$2.715,90;
-Carga horária: 40 horas semanais.
-Horário: 08:00 às 17:00. 
-Provável Início: agosto/2019.
+- 1 vaga para Programador Júnior;
+- Salário: R$2.715,90;
+- Carga horária: 40 horas semanais.
+- Horário: 08:00 às 17:00.
+- Provável Início: agosto/2019.
  
 Requisitos Básicos:
 ================
