@@ -28,7 +28,7 @@ Requisitos Desejáveis:
  
 Instruções:
 =====================================
-Inicialmente, você vai precisar "forkar" este repositório e criar um pequeno programa que deve utilizar uma biblioteca (SelecaoCppLibLinux.zip para Ubuntu e SelecaoCppLibWindows.zip para Windows). Nesta biblioteca há uma classe chamada “Fariasfreitas” com um método chamado getMsg() que <b>irá retornar uma string contendo os e-mails para onde enviar seu currículo</b>, bem como o título da mensagem que você deve utilizar. Depois de compilar e testar sua aplicação, você deve enviar o seu currículo e o código fonte para os e-mails descobertos. Atenção: não analisaremos currículos de candidatos que NÃO seguirem todas as instruções de envio citadas anteriormente.
+Inicialmente, você vai precisar "forkar" este repositório e criar um pequeno programa que deve utilizar uma biblioteca (SelecaoCppLibLinux.zip para Ubuntu e SelecaoCppLibWindows.zip para Windows). Nesta biblioteca há uma classe chamada “SelecaoCppLibLinux” ou "SelecaoCppLibWindows" com um método chamado getMsg() que <b>irá retornar uma string contendo os e-mails para onde enviar seu currículo</b>, bem como o título da mensagem que você deve utilizar. Depois de compilar e testar sua aplicação, você deve enviar o seu currículo e o código fonte para os e-mails descobertos. Atenção: não analisaremos currículos de candidatos que NÃO seguirem todas as instruções de envio citadas anteriormente.
  
  
 Informações sobre a biblioteca Windows:
