@@ -3,12 +3,12 @@
 Os projetos devem ser feitos no QT Creator. Caso seu código não compile, ele não será avaliado. Você será avaliado pela corretude da resposta, estilo de programação e desempenho. 
 
 <strong>Prazo de envio: 17/07/2019 até às 08:00:00 da manhã.</strong><br>
-Enviar projetos para os 4 para os e-mails descobertos no primeiro desafio.
+Enviar projetos para os 4 e-mails descobertos no primeiro desafio.
  
 # Atenção
 
-C++ NÃO é Java, nem C#
-Não programe em C++ como se estivesse programando em C
+- C++ NÃO é Java, nem C#<br><br>
+- Não programe em C++ como se estivesse programando em C<br>
 Resolva da melhor forma possível, considerando padrões, uso da memória, simplicidade, complexidade, melhores práticas e o que há de melhor no C++ (use, preferencialmente, as versões 14 ou 17 do C++)  para resolver os problemas abaixo:
 
 
