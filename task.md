@@ -7,7 +7,7 @@ Enviar projetos para os 4 e-mails descobertos no primeiro desafio.
  
 # Atenção
 
-- C++ NÃO é Java, nem C#<br><br>
+- C++ NÃO é Java, nem C#<br>
 - Não programe em C++ como se estivesse programando em C<br>
 Resolva da melhor forma possível, considerando padrões, uso da memória, simplicidade, complexidade, melhores práticas e o que há de melhor no C++ (use, preferencialmente, as versões 14 ou 17 do C++)  para resolver os problemas abaixo:
 
