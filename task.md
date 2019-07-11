@@ -21,7 +21,7 @@ Nesta questão deve-se implementar em C++ uma lista duplamente encadeada, com a 
 - Remoção na cauda;
 - Busca por elemento.
 
-Além disso, a lista deverá ser salva e carregada em um arquivo json.
+Além disso, a lista deverá ser salva e carregada em um arquivo json.<br>
 <strong>Observação:</strong> Essa lista deve ser implementada utilizando template .
 
 
